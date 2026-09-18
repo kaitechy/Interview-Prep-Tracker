@@ -1,0 +1,6 @@
+{
+  "name": "Interview Quest - Gamified Interview Roadmap & Tracker",
+  "description": "Futuristic RPG-style developer training dashboard, interactive skill roadmap, parallel daily tracker, and productivity analytics with SQLite persistence for product company interview prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
